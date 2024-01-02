@@ -1,0 +1,1077 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\AaveIncentivesController.sol": {
+      "lastModificationDate": 1704082041052,
+      "contentHash": "2710ca8a6723396c1b408ba24cb8396a",
+      "sourceName": "contracts/AaveIncentivesController.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "AaveDistributionManager",
+        "AaveDistributionManagerV2",
+        "AaveIncentivesController",
+        "DistributionTypes",
+        "IAaveDistributionManager",
+        "IAaveIncentivesController",
+        "IERC20",
+        "IScaledBalanceToken",
+        "IStakedToken",
+        "RoleManager",
+        "SafeMath",
+        "VersionedInitializable"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\AaveOracle.sol": {
+      "lastModificationDate": 1704082041102,
+      "contentHash": "0968421ab7ec70b60454f922ca4281e6",
+      "sourceName": "contracts/AaveOracle.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "AaveOracle",
+        "Address",
+        "Context",
+        "IChainlinkAggregator",
+        "IERC20",
+        "IPriceOracleGetter",
+        "Ownable",
+        "SafeERC20",
+        "SafeMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\AaveProtocolDataProvider.sol": {
+      "lastModificationDate": 1704082041166,
+      "contentHash": "5d2e4d4f1d632e249c9e2f1f0260b805",
+      "sourceName": "contracts/AaveProtocolDataProvider.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "AaveProtocolDataProvider",
+        "DataTypes",
+        "Errors",
+        "IAaveIncentivesController",
+        "IERC20",
+        "IERC20Detailed",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "IScaledBalanceToken",
+        "IStableDebtToken",
+        "IVariableDebtToken",
+        "ReserveConfiguration",
+        "UserConfiguration"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\AToken.sol": {
+      "lastModificationDate": 1704082040996,
+      "contentHash": "0cd0300e8b14c0b65dd81f80e25737b1",
+      "sourceName": "contracts/AToken.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "AToken",
+        "Address",
+        "Context",
+        "DataTypes",
+        "Errors",
+        "IAToken",
+        "IAaveIncentivesController",
+        "IERC20",
+        "IERC20Detailed",
+        "IInitializableAToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "IScaledBalanceToken",
+        "IncentivizedERC20",
+        "SafeERC20",
+        "SafeMath",
+        "VersionedInitializable",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\DAI.sol": {
+      "lastModificationDate": 1704082041219,
+      "contentHash": "3d97d306a4c65e06b52d132e5bf1a822",
+      "sourceName": "contracts/DAI.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "ERC20",
+        "IERC20",
+        "MintableERC20",
+        "SafeMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\LendingPool.sol": {
+      "lastModificationDate": 1704082041283,
+      "contentHash": "92feb881d6a3746c2b9cfa0b90f15f28",
+      "sourceName": "contracts/LendingPool.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "DataTypes",
+        "Errors",
+        "GenericLogic",
+        "Helpers",
+        "IAToken",
+        "IAaveIncentivesController",
+        "IERC20",
+        "IFlashLoanReceiver",
+        "IInitializableAToken",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "IPriceOracleGetter",
+        "IReserveInterestRateStrategy",
+        "IScaledBalanceToken",
+        "IStableDebtToken",
+        "IVariableDebtToken",
+        "LendingPool",
+        "LendingPoolStorage",
+        "MathUtils",
+        "PercentageMath",
+        "ReserveConfiguration",
+        "ReserveLogic",
+        "SafeERC20",
+        "SafeMath",
+        "UserConfiguration",
+        "ValidationLogic",
+        "VersionedInitializable",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\LendingPoolAddressProvider.sol": {
+      "lastModificationDate": 1704082041338,
+      "contentHash": "0c733e35875166d33cbf2f96498bb1dd",
+      "sourceName": "contracts/LendingPoolAddressProvider.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "BaseImmutableAdminUpgradeabilityProxy",
+        "BaseUpgradeabilityProxy",
+        "Context",
+        "ILendingPoolAddressesProvider",
+        "InitializableImmutableAdminUpgradeabilityProxy",
+        "InitializableUpgradeabilityProxy",
+        "LendingPoolAddressesProvider",
+        "Ownable",
+        "Proxy"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\LendingPoolAddressProviderRegistery.sol": {
+      "lastModificationDate": 1704082041391,
+      "contentHash": "d09067f236d7db08159a9221617ca5b3",
+      "sourceName": "contracts/LendingPoolAddressProviderRegistery.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Context",
+        "Errors",
+        "ILendingPoolAddressesProviderRegistry",
+        "LendingPoolAddressesProviderRegistry",
+        "Ownable"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\LendingPoolCollateralManager.sol": {
+      "lastModificationDate": 1704082041445,
+      "contentHash": "f54c1e30a7dfa58420994dc4e1084bf8",
+      "sourceName": "contracts/LendingPoolCollateralManager.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "DataTypes",
+        "Errors",
+        "GenericLogic",
+        "Helpers",
+        "IAToken",
+        "IAaveIncentivesController",
+        "IERC20",
+        "IInitializableAToken",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "ILendingPoolCollateralManager",
+        "IPriceOracleGetter",
+        "IReserveInterestRateStrategy",
+        "IScaledBalanceToken",
+        "IStableDebtToken",
+        "IVariableDebtToken",
+        "LendingPoolCollateralManager",
+        "LendingPoolStorage",
+        "MathUtils",
+        "PercentageMath",
+        "ReserveConfiguration",
+        "ReserveLogic",
+        "SafeERC20",
+        "SafeMath",
+        "UserConfiguration",
+        "ValidationLogic",
+        "VersionedInitializable",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\LendingPoolConfigurator.sol": {
+      "lastModificationDate": 1704082041498,
+      "contentHash": "9ed7173a1848e0db6c3a9786738a5a32",
+      "sourceName": "contracts/LendingPoolConfigurator.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "BaseImmutableAdminUpgradeabilityProxy",
+        "BaseUpgradeabilityProxy",
+        "DataTypes",
+        "Errors",
+        "IAaveIncentivesController",
+        "IERC20",
+        "IERC20Detailed",
+        "IInitializableAToken",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "ILendingPoolConfigurator",
+        "InitializableImmutableAdminUpgradeabilityProxy",
+        "InitializableUpgradeabilityProxy",
+        "LendingPoolConfigurator",
+        "PercentageMath",
+        "Proxy",
+        "ReserveConfiguration",
+        "SafeMath",
+        "VersionedInitializable"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\LendingRateOracle.sol": {
+      "lastModificationDate": 1704082041549,
+      "contentHash": "03255eec1b996da6f708bd59990b47ef",
+      "sourceName": "contracts/LendingRateOracle.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Context",
+        "ILendingRateOracle",
+        "LendingRateOracle",
+        "Ownable"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\PriceOracle.sol": {
+      "lastModificationDate": 1704082041626,
+      "contentHash": "b2b1bb869568f3cea8a621ee2bcf5c7b",
+      "sourceName": "contracts/PriceOracle.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "IPriceOracle",
+        "PriceOracle"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\StableDebtToken.sol": {
+      "lastModificationDate": 1704082041686,
+      "contentHash": "481736b26b56f4120d4f2d15d9aa66a5",
+      "sourceName": "contracts/StableDebtToken.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Context",
+        "DataTypes",
+        "DebtTokenBase",
+        "Errors",
+        "IAaveIncentivesController",
+        "ICreditDelegationToken",
+        "IERC20",
+        "IERC20Detailed",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "IStableDebtToken",
+        "IncentivizedERC20",
+        "MathUtils",
+        "SafeMath",
+        "StableDebtToken",
+        "VersionedInitializable",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\VariableDebtToken.sol": {
+      "lastModificationDate": 1704082041763,
+      "contentHash": "c4587cb42bbfade08fb3347b49100d3e",
+      "sourceName": "contracts/VariableDebtToken.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Context",
+        "DataTypes",
+        "DebtTokenBase",
+        "Errors",
+        "IAaveIncentivesController",
+        "ICreditDelegationToken",
+        "IERC20",
+        "IERC20Detailed",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "IScaledBalanceToken",
+        "IVariableDebtToken",
+        "IncentivizedERC20",
+        "SafeMath",
+        "VariableDebtToken",
+        "VersionedInitializable",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\WMATIC.sol": {
+      "lastModificationDate": 1704082041823,
+      "contentHash": "f087b64c324a518d2c3c937a6a0f35d9",
+      "sourceName": "contracts/WMATIC.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.6.12"
+      ],
+      "artifacts": [
+        "WMATIC"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\StableAndVariableTokensHelper.sol": {
+      "lastModificationDate": 1704084338295,
+      "contentHash": "c0c8d32ac5581be1b14a9585156e849d",
+      "sourceName": "contracts/StableAndVariableTokensHelper.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Context",
+        "DataTypes",
+        "DebtTokenBase",
+        "Errors",
+        "IAaveIncentivesController",
+        "ICreditDelegationToken",
+        "IERC20",
+        "IERC20Detailed",
+        "IInitializableDebtToken",
+        "ILendingPool",
+        "ILendingPoolAddressesProvider",
+        "ILendingRateOracle",
+        "IScaledBalanceToken",
+        "IStableDebtToken",
+        "IVariableDebtToken",
+        "IncentivizedERC20",
+        "LendingRateOracle",
+        "MathUtils",
+        "Ownable",
+        "SafeMath",
+        "StableAndVariableTokensHelper",
+        "StableDebtToken",
+        "StringLib",
+        "VariableDebtToken",
+        "VersionedInitializable",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\DefaultReserveInterestRateStrategy.sol": {
+      "lastModificationDate": 1704093771265,
+      "contentHash": "abcdab1783616592b694bd04f69a6b11",
+      "sourceName": "contracts/DefaultReserveInterestRateStrategy.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "DefaultReserveInterestRateStrategy",
+        "Errors",
+        "IERC20",
+        "ILendingPoolAddressesProvider",
+        "ILendingRateOracle",
+        "IReserveInterestRateStrategy",
+        "PercentageMath",
+        "SafeMath",
+        "WadRayMath"
+      ]
+    },
+    "C:\\Users\\sakha\\Downloads\\VerifyContract-main (1)\\VerifyContract-main\\contracts\\InitializableImmutableAdminUpgradeabilityProxy.sol": {
+      "lastModificationDate": 1704108608230,
+      "contentHash": "47cd816ff755c160cee72369332bbe00",
+      "sourceName": "contracts/InitializableImmutableAdminUpgradeabilityProxy.sol",
+      "solcConfig": {
+        "version": "0.6.12",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.6.12",
+        "^0.6.0",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12",
+        "0.6.12"
+      ],
+      "artifacts": [
+        "Address",
+        "BaseImmutableAdminUpgradeabilityProxy",
+        "BaseUpgradeabilityProxy",
+        "InitializableImmutableAdminUpgradeabilityProxy",
+        "InitializableUpgradeabilityProxy",
+        "Proxy"
+      ]
+    }
+  }
+}
